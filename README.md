@@ -55,6 +55,6 @@ El archivo SQL incluye un bloque de documentación detallado que especifica el p
 
 **Leonardo Polanco**
 
-* [[Tu Perfil de LinkedIn](https://www.linkedin.com/in/leonardo-polanco-navas/)] 
+* [[LinkedIn](https://www.linkedin.com/in/leonardo-polanco-navas/)] 
 
 ---
